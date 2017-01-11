@@ -7,7 +7,7 @@ To make clear what is expected, all delegates/attendees, speakers, exhibitors, o
 The Short Version
 -----------------
 
-PyCon is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.
+PyCon is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of conference participants in any form.
 
 All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any conference venue, including talks.
 
@@ -20,7 +20,7 @@ Thank you for helping make this a welcoming, friendly event for all.
 The Longer Version
 ------------------
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, age, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
